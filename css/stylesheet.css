@@ -1,0 +1,34 @@
+body
+{
+    color: white;
+    background-color: #1e2324;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+.container ul {
+    border: 1px solid;
+    display: inline-block;
+    margin: 20px 5px;
+    padding: 5px;
+}
+.container li {
+
+    padding: 10px;
+    background: #31393b;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.container li a {
+    display: inline-block;
+    background: #444;
+    color: #FFF;
+    padding: 10px;
+}
+
+
+ul{
+    list-style: none;
+}
