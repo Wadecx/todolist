@@ -10,6 +10,7 @@ body
 }
 .container ul {
     border: 1px solid;
+    border-color: white;
     display: inline-block;
     margin: 20px 5px;
     padding: 5px;
